@@ -28,3 +28,6 @@ git branch (name of branch) - this will create a new branch
 git checkout (name of branch)  - this will move you into that new branch. 
 
 git merge master - This will merge the master into your new branch. 
+
+
+****** These are the amin git commands you would use during normal work flow.  *****
