@@ -1,0 +1,30 @@
+
+ Git Commands mainly used. 
+
+Common Git functionality:
+Master: is the main project file package
+Branch: is a seperate package that is not apart of the master/main package 
+        unit,but uses the full master cod ebase. 
+Merging to Master: This occurs when you are done with your branch and is time 
+        to add it tot he master branch. 
+
+GIT COMMANDS:
+git clone (url) - This will clone a git porject locally. 
+
+git status - this will let you know what changes have been made along with what files have been changed
+
+git add (file name) or you can use git add . - This will add the file to git. 
+
+git commit -m "Some Message" - This will commit those changes to git. 
+
+git push - this will push the added commit to the git repository. 
+
+git pull - This will pull the most recent main/master build to you locally. 
+
+git branch - This will show the current branch you are in. 
+
+git branch (name of branch) - this will create a new branch
+
+git checkout (name of branch)  - this will move you into that new branch. 
+
+git merge master - This will merge the master into your new branch. 
